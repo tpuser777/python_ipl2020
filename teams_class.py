@@ -6,7 +6,7 @@ class Team:
         self.number_of_batsman = number_of_batsman # attributes
         self.number_of_bowlers = number_of_bowlers # attributes
         self.number_of_allrounders = number_of_allrounders # attributes
-        self.budget = budget
+        self._budget = budget # attribute ( hide the budget ) 
         
     @property  # getters
     def number_of_players(self):
