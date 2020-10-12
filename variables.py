@@ -1,0 +1,8 @@
+team_one = "Mumbai Indians"
+team_two = "Chennai Super Kings"
+team_three = "Delhi Capitals"
+team_four = "Kings XI Punjab"
+team_five = "Kolkata Knight Riders"
+team_six = "Rajasthan Royals"
+team_seven = "Royal Challengers Bangalore"
+team_eight = "Sunrisers Hyderabad"
