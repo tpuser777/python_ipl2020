@@ -14,12 +14,7 @@ team_composition = {
   "Bowler 3" : "Jasprit Bumrah",
 }
 
-print (team_composition["Keeper"])
-
-print (team_composition["Bowler 1"])
-
-print (team_composition["Batsman 1"])
-
-print("My fav wicket keeper is %s" %(team_composition["Keeper"]))
-print("My fav Bowler is %s" %(team_composition["Bowler 3"]))
-print("My fav Batsman is %s" %(team_composition["Batsman 1"])) 
+print("My fav Wicket Keeper is :  %s" %(team_composition["Keeper"]))
+print("My fav Bowler is : %s" %(team_composition["Bowler 3"]))
+print("My fav Batsman is : %s" %(team_composition["Batsman 1"])) 
+print("My fav Batsmans are : %s and %s" % (team_composition["Batsman 1"] ,team_composition["Batsman 2"] ))
