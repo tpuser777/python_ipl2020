@@ -19,3 +19,7 @@ print (team_composition["Keeper"])
 print (team_composition["Bowler 1"])
 
 print (team_composition["Batsman 1"])
+
+print("My fav wicket keeper is %s" %(team_composition["Keeper"]))
+print("My fav Bowler is %s" %(team_composition["Bowler 3"]))
+print("My fav Batsman is %s" %(team_composition["Batsman 1"])) 
